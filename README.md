@@ -1,8 +1,6 @@
 ### Olá, Sou Webert Dias! 👋
 
- <p>
-       Atualmente estou em transição de carreira.<br>
-       Estou estudando HTML, CSS e Javascript.
+ <p>Desenvolvedor em HTML, CSS e Javascript.
     </p>
     <div>
         <a href="https://github.com/webertdias">
