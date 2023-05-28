@@ -1,6 +1,6 @@
 ### Olá, Sou Webert Dias! 👋
 
- <p>Desenvolvedor em HTML, CSS e Javascript.
+ <p>Desenvolvedor em HTML, CSS, Javascript e Node.js.
     </p>
     <div>
         <a href="https://github.com/webertdias">
